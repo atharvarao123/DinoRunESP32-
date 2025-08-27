@@ -14,14 +14,6 @@ TaskHandle_t playerObject = NULL;
 TaskHandle_t startUpObject = NULL;
 TaskHandle_t obstacleObject = NULL;
 TaskHandle_t obstacle2Object = NULL;
-/*
-Note to Self
-Add another obstacle
-change speed to make it a little difficult
-comment code
-upload to github
-record video
-*/
 
 SemaphoreHandle_t lcdMutex;
 
@@ -248,6 +240,7 @@ void setup() {
 void loop() {
 
 }
+
 
 
 
