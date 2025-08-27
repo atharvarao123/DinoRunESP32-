@@ -1,4 +1,4 @@
-# 🦖 DINO RUN with ESP32
+#  DINO RUN with ESP32
 
 This project is a recreation of Google's famous **Dino Run** game, developed in **C** and implemented on an **ESP32** microcontroller.  
 It uses an LCD display and two buttons to control gameplay.  
@@ -13,7 +13,7 @@ It uses an LCD display and two buttons to control gameplay.
 
 ---
 
-## ⚙ ESP32 Usage
+## ESP32 Usage
 
 - **Display** → Shows:
   - Start screen  
@@ -25,7 +25,7 @@ It uses an LCD display and two buttons to control gameplay.
 
 ---
 
-##Circuit Connections
+## Circuit Connections
 
 ### Buttons
 - **Button 1** → `GPIO 2` → Button → GND  
