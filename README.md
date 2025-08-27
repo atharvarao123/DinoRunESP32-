@@ -44,4 +44,5 @@ It uses an LCD display and two buttons to control gameplay.
 
 ---
 
+[![Dino Run Demo](https://img.youtube.com/vi/15Ay1STQVcg/0.jpg)](https://www.youtube.com/watch?v=15Ay1STQVcg)
 
